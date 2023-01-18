@@ -1,4 +1,3 @@
 # repo2
-this is a test repository
-i am learning Git and GitHub
-Excited
+This is a test repository. I am learning Git and GitHub. 
+Thanks for reading. 
